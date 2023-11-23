@@ -20,7 +20,7 @@ Before diving into Selenium, ensure your system is equipped with the necessary p
 ## Clone Repository
 Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/GameProducer-Hamza/Selenium-Practice.git
+   git clone https://github.com/GameAnalyst-Hamza/Selenium-Practice.git
    ```
 
 Checkout to Project directory:
@@ -30,11 +30,11 @@ Checkout to Project directory:
 
 Switch branch from main to Branch-POM or Branch-DDF-TestNG
    ```bash
-   git checkout Branch-POM
+   git checkout PageObjectModal
    ```
    OR
    ```bash
-   git checkout Branch-DDF-TestNG
+   git checkout DataDrivenFramework
    ```
 
 > Note: `PageObjectModal` contains reference code for `Locating Strategies` and `Page Object Modal`
